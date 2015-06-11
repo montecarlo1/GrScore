@@ -1,0 +1,8 @@
+﻿<Window x:Class="GrScore.ChartWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vc="clr-namespace:Visifire.Charts;assembly=WPFVisifire.Charts"
+        Title="曲线图" Height="300" Width="744">
+    <Grid x:Name="chartContainer" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">       
+    </Grid>
+</Window>
